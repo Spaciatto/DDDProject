@@ -1,0 +1,9 @@
+/dddproject/target/
+/dddproject-domain/target/
+/dddproject-infrastructure-persistence/target/
+/dddproject-application/target/
+
+/dddproject/.idea/
+/dddproject-domain/.idea/
+/dddproject-infrastructure-persistence/.idea/
+/dddproject-application/.idea/
